@@ -43,7 +43,10 @@ Welcome to the Nymble Travel Management System! Our goal is to design, implement
 Follow these steps to embark on the journey of implementing the Nymble Travel Management System:
 
 1. Clone the repository to your local machine.
-2. Implement the specified classes and functions to bring the system to life.
-3. Test the functionalities to ensure a seamless experience for travel agencies and passengers alike.
+2. Add the SQL file to update the database
+3. Add the provided JAR file into the external libraries.
+4. Make sure to update the user name and password in the connection string of JDBC
+5. Implement the specified classes and functions to bring the system to life.
+6. Test the functionalities to ensure a seamless experience for travel agencies and passengers alike.
 
 Happy coding, and may your code be as adventurous as our travel packages!
